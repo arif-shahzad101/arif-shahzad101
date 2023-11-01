@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arif-shahzad101
-- 👀 I’m interested in frontend Development
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning MERN Stack Development
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me email:arifedwardian9999@gmail.com or simply Whatsapp:+923498754302 
